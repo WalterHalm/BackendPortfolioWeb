@@ -32,6 +32,7 @@ com\miportfoliowalter\SpringBoot\Security\Controller\AuthController.class
 com\miportfoliowalter\SpringBoot\Security\Repository\IRolRepository.class
 com\miportfoliowalter\SpringBoot\Security\Entity\Usuario.class
 com\miportfoliowalter\SpringBoot\Entity\hys.class
+WebConfig.class
 com\miportfoliowalter\SpringBoot\Controller\Chys.class
 com\miportfoliowalter\SpringBoot\Security\Service\RolService.class
 com\miportfoliowalter\SpringBoot\Controller\PersonaController.class
